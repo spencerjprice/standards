@@ -6,7 +6,7 @@ pubDate: 'Mar 7 2018'
 
 # ECMAScript Guild's Chosen Logger - Why "Winston" Reigns Supreme
 
-In the world of logging libraries for JavaScript, one logger stands head and shoulders above the rest: Winston. As the logger standard chosen by the esteemed ECMAScript Guild, Winston offers a superior logging experience, unrivaled flexibility, and unparalleled industry support. In this opinionated blog post, we delve into why Winston is the logger of choice, dismissing alternatives like Pino and Bunyan, and explore the industry-standard practice of logging `string, {params object}` order.
+In the world of logging libraries for JavaScript, one logger stands head and shoulders above the rest: Winston. As the logger standard chosen by the esteemed ECMAScript Guild, Winston offers a superior logging experience, unrivaled flexibility, and unparalleled industry support. In this post, we delve into why Winston is the logger of choice, dismissing alternatives like Pino and Bunyan, and explore the industry-standard practice of logging `string, {params object}` order.
 
 ## Winston: The Unparalleled Logging Solution
 
