@@ -2,7 +2,6 @@
 title: 'Promises'
 description: ''
 pubDate: 'Jul 15 2015'
-heroImage: '/placeholder-hero.jpg'
 ---
 
 # JavaScript Promises - Mastering Asynchronous Operations

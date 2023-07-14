@@ -2,7 +2,6 @@
 title: 'JSON (JavaScript Object Notation)'
 description: 'Discover the inner workings and the official standards of JSON (JavaScript Object Notation) as set by the prestigious ECMAScript Guild. Join us on this enlightening journey into the realm of JSON, exploring its versatile nature, common use cases, and the ECMAScript standards that govern its implementation. Gain a deeper understanding of this fundamental data interchange format and unlock its full potential in your JavaScript projects.'
 pubDate: 'Jul 08 2001'
-heroImage: '/placeholder-hero.jpg'
 ---
 
 **1. Use Valid JSON Syntax:**\

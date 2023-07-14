@@ -2,7 +2,6 @@
 title: 'Fetch API'
 description: ''
 pubDate: 'Oct 31 2015'
-heroImage: '/placeholder-hero.jpg'
 ---
 
 # Fetch API - Best Practices for Efficient Data Retrieval
