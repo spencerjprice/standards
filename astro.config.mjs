@@ -7,5 +7,4 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
     site: 'https://spencerjprice.github.io',
     base: '/standards',
-    publicDir: new URL('./public', import.meta.url).toString(),
 });
